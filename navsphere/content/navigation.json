@@ -447,6 +447,14 @@
           "description": "廣受年輕人喜愛的Dcard 是台灣最大的匿名交流平台，舉凡時事話題、感情心情、吃喝玩樂、學習工作等，都有卡友陪你聊！",
           "icon": "/assets/favicon_1773153059521.png",
           "enabled": true
+        },
+        {
+          "id": "1773153083277",
+          "title": "Threads",
+          "href": "https://www.threads.net/",
+          "description": " ",
+          "icon": "/assets/favicon_1773153113460.png",
+          "enabled": true
         }
       ],
       "subCategories": []
