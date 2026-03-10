@@ -1011,9 +1011,9 @@
           "items": [
             {
               "id": "1759043230164",
-              "title": "Quaily | 为创作者提供现代人工智慧新闻通讯服务",
-              "href": "https://quaily.com/",
-              "description": "Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。",
+              "title": "Quaily | 為創作者提供現代人工智能新聞通訊服務",
+              "href": "https://quaily.com/zh_tw",
+              "description": "Quaily 是一個現代化的，基於 AI 的，新聞訂閱服務。它支援多種推送管道，包括郵件，telegram 和 discord。它與流行的編輯器（如 Obsidian 和 VScode）有很好的整合。",
               "icon": "/assets/favicon_1759043242645.webp",
               "enabled": true
             },
