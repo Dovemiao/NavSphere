@@ -1106,6 +1106,14 @@
               "description": "在 Y2mate 免費在線下載 YouTube 視頻，轉換為 720p、全高清 1080p、4K 和 8K 的 mp3 或 mp4；在 Android、iOS 和 Windows 上快速、高品質。",
               "icon": "/assets/favicon_1773150397534.png",
               "enabled": true
+            },
+            {
+              "id": "1773150603861",
+              "title": "免费在线视频解析下载网站 - Parsevideo.com",
+              "href": "https://pv.vlogdownloader.com/",
+              "description": "",
+              "icon": "/assets/favicon_1773150608307.ico",
+              "enabled": true
             }
           ]
         },
