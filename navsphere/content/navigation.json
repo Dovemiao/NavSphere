@@ -323,6 +323,14 @@
               "description": "免费隐藏短链接的点击次数，只有自己可以看到，不让外人将短网址还原。可直接填写所需的utm参数，低调且方便的短链接在线生成器",
               "icon": "/assets/favicon_1773152306670.png",
               "enabled": true
+            },
+            {
+              "id": "1773152314085",
+              "title": "URL Shortener - neya.io",
+              "href": "https://neya.io/",
+              "description": "neya.io Simple, Fast, Safe, Private URL Shortener",
+              "icon": "/assets/favicon_1773152328428.png",
+              "enabled": true
             }
           ]
         },
