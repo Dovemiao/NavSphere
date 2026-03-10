@@ -310,47 +310,6 @@
           ]
         },
         {
-          "id": "0c3c06f2-510a-4145-98cb-bc6890c011e8",
-          "title": "免費縮短網址產生器",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1773152302939",
-              "title": "短链接在线生成 - reurl",
-              "href": "https://reurl.cc/main/cn",
-              "description": "免费隐藏短链接的点击次数，只有自己可以看到，不让外人将短网址还原。可直接填写所需的utm参数，低调且方便的短链接在线生成器",
-              "icon": "/assets/favicon_1773152306670.png",
-              "enabled": true
-            },
-            {
-              "id": "1773152314085",
-              "title": "URL Shortener - neya.io",
-              "href": "https://neya.io/",
-              "description": "neya.io Simple, Fast, Safe, Private URL Shortener",
-              "icon": "/assets/favicon_1773152328428.png",
-              "enabled": true
-            },
-            {
-              "id": "1773152351367",
-              "title": "短網址。行銷。分析 - Risu.io",
-              "href": "https://risu.io/",
-              "description": "除了短網址，還提供了強大分析工具以及簡單調整社群 SEO；簡單的操作介面，讓你輕鬆建立短網址、圖片、短片、音檔；提供分析工具，不讓你錯過任何流量，更棒的是還提供GA, GTM，讓你更容易追蹤；只要一個設定就能讓你快速更換 og tag，讓你在社群分享更簡單",
-              "icon": "/assets/favicon_1773152355315.png",
-              "enabled": true
-            },
-            {
-              "id": "1773152386817",
-              "title": "Bitly Connections Platform | Short URLs, QR Codes, and More",
-              "href": "https://bitly.com/",
-              "description": "Bitly’s Connections Platform is more than a free URL shortener, with robust link management software, advanced QR Code features, and a landing page solution.",
-              "icon": "/assets/favicon_1773152392043.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "4",
           "title": "图形创意",
           "href": "#图形创意",
@@ -472,25 +431,83 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [
+      "items": [],
+      "subCategories": [
         {
-          "id": "1773151278583",
-          "title": "biyapay|國際匯款|美股港股交易",
-          "href": "https://biyapay.com/re/81586733",
-          "description": "BIYAPAY是一個支持多資產交易的國際錢包，支持全球收付款和國際匯款，支持美港股，數位貨幣，外匯，貴金屬，原油等多品種多資產交易，是一個以用戶為核心，提供理財投資服務的國際錢包系統。",
-          "icon": "/assets/favicon_1773151547920.ico",
-          "enabled": true
+          "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
+          "title": "数据与分析",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760611119341",
+              "title": "TradingView",
+              "href": "https://www.tradingview.com/",
+              "description": "Where the world charts, chats, and trades markets. We&#39;re a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
+              "icon": "/assets/favicon_1760611123647.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760611134039",
+              "title": "巨潮资讯网",
+              "href": "https://www.cninfo.com.cn/",
+              "description": "巨潮资讯网",
+              "icon": "/assets/favicon_1760611181157.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760611219040",
+              "title": "价值投资导航数据",
+              "href": "http://value500.com/",
+              "description": "坚守了十四年的投资数据与资讯网站",
+              "icon": "/assets/favicon_1760611256663.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760611357060",
+              "title": "集思录",
+              "href": "https://www.jisilu.cn/",
+              "description": "集思录，一个以数据为本的投资社区",
+              "icon": "/assets/favicon_1760611378684.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760669308127",
+              "title": "看财报-价值投资分析工具",
+              "href": "https://www.kancaibao.com/",
+              "description": "看财报为价值投资者提供上市公司财务数据,各项基本面分析指标,同时提供DCF折现工具、杜邦分析表、历史PE（市盈率）和PB（市净率）数据、还有多家公司对比和企业估值功能",
+              "icon": "/assets/favicon_1760669311999.webp",
+              "enabled": true
+            }
+          ]
         },
         {
-          "id": "1773151737468",
-          "title": "幣安：全球最值得信賴的加密貨幣交易所 | 購買、交易和投資加密貨幣",
-          "href": "https://www.bsmkweb.cc/join?ref=568646670",
-          "description": "幣安是全球最佳加密貨幣交易所。安全可靠、手續費低，受到全球數百萬用戶的信賴。",
-          "icon": "https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png",
-          "enabled": true
+          "id": "a45066a4-3622-43a4-acbb-873da6268788",
+          "title": "溢价观测工具",
+          "icon": "Database",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1760611489487",
+              "title": "集思录-实时数据",
+              "href": "https://www.jisilu.cn/data/cbnew/#cb",
+              "description": "集思录-实时数据",
+              "icon": "/assets/favicon_1760611535023.webp",
+              "enabled": true
+            },
+            {
+              "id": "1760611595643",
+              "title": "palmmicro",
+              "href": "https://palmmicro.com/woody/res/chinafuturecn.php",
+              "description": "A股商品等基金净值计算工具",
+              "icon": "/assets/favicon_1760611626932.webp",
+              "enabled": true
+            }
+          ]
         }
-      ],
-      "subCategories": []
+      ]
     },
     {
       "id": "9",
@@ -1445,6 +1462,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1773152852751",
+      "title": "社群論壇",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
