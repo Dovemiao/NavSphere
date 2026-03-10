@@ -178,19 +178,19 @@
           "enabled": true
         },
         {
-          "id": "1773151019891",
-          "title": "ETtoday新聞雲 | Today is my day",
-          "href": "https://www.ettoday.net/",
-          "description": "《ETtoday新聞雲》由東森集團總裁王令麟所創辦，於2011年11月開站，新聞、影音、節目、直播、社群、個人化服務，及App都深獲網友喜愛，在台灣網路觸及率超過8成，多項評比是新聞網站第一名；在全世界各地華人亦頗受歡迎，全球擁有2000萬粉絲。除了線上數位廣告外，我們也提供線下廣告刊登服務《ETtoday家外媒體》，包含台北捷運廣告刊登(燈箱廣告、壁貼廣告...等)、微風南京建築外牆廣告、建北/建南LED等戶外媒體代理。",
-          "icon": "/assets/favicon_1773151024208.png",
-          "enabled": true
-        },
-        {
           "id": "1773151047418",
           "title": "焦點 | LINE TODAY",
           "href": "https://today.line.me/tw",
           "description": "鎖定LINE TODAY，不怕話題跟不上，每天生活超有梗！新聞、影音與直播，各種豐富內容與貼心服務，就讓LINE TODAY陪伴您的每一天！",
           "icon": "/assets/favicon_1773151051243.png",
+          "enabled": true
+        },
+        {
+          "id": "1773151019891",
+          "title": "ETtoday新聞雲 | Today is my day",
+          "href": "https://www.ettoday.net/",
+          "description": "《ETtoday新聞雲》由東森集團總裁王令麟所創辦，於2011年11月開站，新聞、影音、節目、直播、社群、個人化服務，及App都深獲網友喜愛，在台灣網路觸及率超過8成，多項評比是新聞網站第一名；在全世界各地華人亦頗受歡迎，全球擁有2000萬粉絲。除了線上數位廣告外，我們也提供線下廣告刊登服務《ETtoday家外媒體》，包含台北捷運廣告刊登(燈箱廣告、壁貼廣告...等)、微風南京建築外牆廣告、建北/建南LED等戶外媒體代理。",
+          "icon": "/assets/favicon_1773151024208.png",
           "enabled": true
         }
       ],
