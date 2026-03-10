@@ -1064,6 +1064,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "1773150025829",
+              "title": "Toolbxs:你需要的免費工具都在這",
+              "href": "https://toolboxtw.com/zh-TW/",
+              "description": "Toolbxs是一個提供人們免費線上工具的網站。你可以在這邊找到各式各樣的計算機、下載器、計時器等等的免費小工具",
+              "icon": "/assets/favicon_1773150029070.png",
+              "enabled": true
             }
           ],
           "enabled": true
