@@ -1011,6 +1011,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "d5b53725-27ae-495b-bdca-25d33cf082bc",
+          "title": "下載工具",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "3",
           "title": "在线工具",
           "href": "#在线工具",
@@ -1179,14 +1187,6 @@
             }
           ],
           "enabled": true
-        },
-        {
-          "id": "d5b53725-27ae-495b-bdca-25d33cf082bc",
-          "title": "下載工具",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ],
       "description": "",
