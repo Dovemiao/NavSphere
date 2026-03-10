@@ -315,7 +315,16 @@
           "icon": "Link",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1773152302939",
+              "title": "短链接在线生成 - reurl",
+              "href": "https://reurl.cc/main/cn",
+              "description": "免费隐藏短链接的点击次数，只有自己可以看到，不让外人将短网址还原。可直接填写所需的utm参数，低调且方便的短链接在线生成器",
+              "icon": "/assets/favicon_1773152306670.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4",
