@@ -439,6 +439,14 @@
           "description": "BIYAPAY是一個支持多資產交易的國際錢包，支持全球收付款和國際匯款，支持美港股，數位貨幣，外匯，貴金屬，原油等多品種多資產交易，是一個以用戶為核心，提供理財投資服務的國際錢包系統。",
           "icon": "/assets/favicon_1773151547920.ico",
           "enabled": true
+        },
+        {
+          "id": "1773151737468",
+          "title": "幣安：全球最值得信賴的加密貨幣交易所 | 購買、交易和投資加密貨幣",
+          "href": "https://www.bsmkweb.cc/join?ref=568646670",
+          "description": "访问 www.bsmkweb.cc",
+          "icon": "https://public.bnbstatic.com/20190405/eb2349c3-b2f8-4a93-a286-8f86a62ea9d8.png",
+          "enabled": true
         }
       ],
       "subCategories": []
