@@ -928,39 +928,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
-          "title": "国外平台",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1755168164096",
-              "title": "Reddit - The heart of the internet",
-              "href": "https://www.reddit.com/",
-              "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
-              "icon": "/assets/favicon_1755168414977.webp",
-              "enabled": true
-            },
-            {
-              "id": "1_11_5",
-              "title": "Producthunt",
-              "href": "https://www.producthunt.com/",
-              "description": "发现新鲜有趣的产品",
-              "icon": "/assets/images/logos/producthunt.webp",
-              "enabled": true
-            },
-            {
-              "id": "1759031046821",
-              "title": "Hacker News",
-              "href": "https://news.ycombinator.com/",
-              "description": "Hacker News 是一家关于计算机黑客和创业公司的社会化新闻网站，由保罗·格雷厄姆的创业孵化器 Y Combinator 创建。与其它社会化新闻网站不同的是 Hacker News 未登录访客没有赞成或反对一条提交新闻的选项，不过还是可以被有足够 Karma 的用户投赞成或反对票。简而言之，Hacker News 允许提交任何可以被理解为“任何满足人们求知欲”的新闻",
-              "icon": "/assets/favicon_1759031156358.svg",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "e2b07afd-968c-4985-b6c2-8dc504bce17b",
           "title": "录屏工具",
           "icon": "Folder",
