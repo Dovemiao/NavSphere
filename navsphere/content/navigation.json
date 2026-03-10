@@ -455,6 +455,14 @@
           "description": " ",
           "icon": "/assets/favicon_1773153113460.png",
           "enabled": true
+        },
+        {
+          "id": "1773153145017",
+          "title": "Instagram",
+          "href": "https://www.instagram.com/",
+          "description": "",
+          "icon": "/assets/favicon_1773153157757.png",
+          "enabled": true
         }
       ],
       "subCategories": []
