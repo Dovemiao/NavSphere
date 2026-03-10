@@ -1098,6 +1098,14 @@
               "description": "Download videos from popular platforms with SaveFrom.net, the leading free online video downloader. Easily save videos in various formats and resolutions. Start downloading now!",
               "icon": "/assets/favicon_1773149897026.ico",
               "enabled": true
+            },
+            {
+              "id": "1773150393751",
+              "title": "免費線上 YouTube 影片下載器 [1080p&4K] - Y2mate",
+              "href": "https://y2mate.bet/zh-tw/",
+              "description": "在 Y2mate 免費在線下載 YouTube 視頻，轉換為 720p、全高清 1080p、4K 和 8K 的 mp3 或 mp4；在 Android、iOS 和 Windows 上快速、高品質。",
+              "icon": "/assets/favicon_1773150397534.png",
+              "enabled": true
             }
           ]
         },
