@@ -426,6 +426,15 @@
       "enabled": true
     },
     {
+      "id": "1773152852751",
+      "title": "社群論壇",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1760610695230",
       "title": "投資者工具包",
       "icon": "Building",
@@ -1462,15 +1471,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1773152852751",
-      "title": "社群論壇",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
