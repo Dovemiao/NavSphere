@@ -431,7 +431,16 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1773151278583",
+          "title": "biyapay|國際匯款|美股港股交易",
+          "href": "https://biyapay.com/re/81586733",
+          "description": "BIYAPAY是一個支持多資產交易的國際錢包，支持全球收付款和國際匯款，支持美港股，數位貨幣，外匯，貴金屬，原油等多品種多資產交易，是一個以用戶為核心，提供理財投資服務的國際錢包系統。",
+          "icon": "/assets/favicon_1773151547920.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
