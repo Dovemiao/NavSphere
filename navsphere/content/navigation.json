@@ -331,6 +331,14 @@
               "description": "neya.io Simple, Fast, Safe, Private URL Shortener",
               "icon": "/assets/favicon_1773152328428.png",
               "enabled": true
+            },
+            {
+              "id": "1773152351367",
+              "title": "短網址。行銷。分析 - Risu.io",
+              "href": "https://risu.io/",
+              "description": "除了短網址，還提供了強大分析工具以及簡單調整社群 SEO；簡單的操作介面，讓你輕鬆建立短網址、圖片、短片、音檔；提供分析工具，不讓你錯過任何流量，更棒的是還提供GA, GTM，讓你更容易追蹤；只要一個設定就能讓你快速更換 og tag，讓你在社群分享更簡單",
+              "icon": "/assets/favicon_1773152355315.png",
+              "enabled": true
             }
           ]
         },
