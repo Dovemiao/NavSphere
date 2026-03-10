@@ -420,6 +420,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "0c3c06f2-510a-4145-98cb-bc6890c011e8",
+          "title": "免費縮短網址產生器",
+          "icon": "Link",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
