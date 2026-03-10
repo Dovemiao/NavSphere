@@ -162,14 +162,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1761725040240",
-          "title": "Product Hunt",
-          "href": "https://www.producthunt.com/",
-          "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone&#x27;s talking about.",
-          "icon": "/assets/favicon_1761725042705.webp",
-          "enabled": true
-        },
-        {
           "id": "1761725058490",
           "title": "Reddit",
           "href": "https://www.reddit.com/",
