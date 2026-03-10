@@ -168,6 +168,14 @@
           "description": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
           "icon": "/assets/favicon_1773150946969.png",
           "enabled": true
+        },
+        {
+          "id": "1773150999073",
+          "title": "Yahoo新聞",
+          "href": "https://tw.news.yahoo.com/",
+          "description": "Yahoo新聞 Yahoo奇摩新聞，提供跨平台、即時、多元、專業的最新時事動態，讓你隨時隨地瀏覽最新新聞、頭條新聞、時事議題、線上直播、風向節目、天氣變化、名人動態、社群話題、關懷弱勢、多元觀點。歡迎網友互動留言、投稿、投票，掌握大千世界，就在彈指之間。",
+          "icon": "/assets/favicon_1773151002631.png",
+          "enabled": true
         }
       ],
       "subCategories": []
