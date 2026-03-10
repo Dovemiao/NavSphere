@@ -439,6 +439,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ptt.cc",
           "enabled": true
+        },
+        {
+          "id": "1773153055999",
+          "title": "Dcard",
+          "href": "https://www.dcard.tw/",
+          "description": "廣受年輕人喜愛的Dcard 是台灣最大的匿名交流平台，舉凡時事話題、感情心情、吃喝玩樂、學習工作等，都有卡友陪你聊！",
+          "icon": "/assets/favicon_1773153059521.png",
+          "enabled": true
         }
       ],
       "subCategories": []
