@@ -160,7 +160,16 @@
       "icon": "Coffee",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1773150935345",
+          "title": "Google 新聞",
+          "href": "https://news.google.com/",
+          "description": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
+          "icon": "/assets/favicon_1773150946969.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
