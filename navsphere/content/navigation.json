@@ -130,6 +130,80 @@
           "enabled": true
         },
         {
+          "id": "1774000000002",
+          "title": "購物網拍",
+          "href": "#購物網拍",
+          "icon": "ShoppingBag",
+          "description": "",
+          "items": [
+            {
+              "id": "1774000002001",
+              "title": "蝦皮購物",
+              "href": "https://shopee.tw/",
+              "description": "台灣最大C2C購物平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shopee.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002002",
+              "title": "MOMO 購物網",
+              "href": "https://www.momoshop.com.tw/",
+              "description": "台灣知名電視購物與電商平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.momoshop.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002003",
+              "title": "PChome 24h",
+              "href": "https://24h.pchome.com.tw/",
+              "description": "24小時到貨的台灣電商龍頭。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=24h.pchome.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002004",
+              "title": "博客來",
+              "href": "https://www.books.com.tw/",
+              "description": "台灣最大網路書店與生活用品平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.books.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002005",
+              "title": "Yahoo! 購物中心",
+              "href": "https://tw.buy.yahoo.com/",
+              "description": "Yahoo官方綜合購物平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.buy.yahoo.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000002006",
+              "title": "露天拍賣",
+              "href": "https://www.ruten.com.tw/",
+              "description": "台灣老牌C2C拍賣平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ruten.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002007",
+              "title": "樂天市場",
+              "href": "https://www.rakuten.com.tw/",
+              "description": "日本樂天集團台灣購物網站。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.rakuten.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002008",
+              "title": "Pinkoi",
+              "href": "https://www.pinkoi.com/",
+              "description": "設計師選物與手作市集。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pinkoi.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "1774000010000",
           "title": "免費縮短網址產生器",
           "href": "#免費縮短網址產生器",
@@ -409,80 +483,6 @@
               "href": "https://www.opentix.life/",
               "description": "音樂會、展覽、表演票券訂購平台。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.opentix.life",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "1774000000002",
-          "title": "購物網拍",
-          "href": "#購物網拍",
-          "icon": "ShoppingBag",
-          "description": "",
-          "items": [
-            {
-              "id": "1774000002001",
-              "title": "蝦皮購物",
-              "href": "https://shopee.tw/",
-              "description": "台灣最大C2C購物平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shopee.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002002",
-              "title": "MOMO 購物網",
-              "href": "https://www.momoshop.com.tw/",
-              "description": "台灣知名電視購物與電商平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.momoshop.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002003",
-              "title": "PChome 24h",
-              "href": "https://24h.pchome.com.tw/",
-              "description": "24小時到貨的台灣電商龍頭。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=24h.pchome.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002004",
-              "title": "博客來",
-              "href": "https://www.books.com.tw/",
-              "description": "台灣最大網路書店與生活用品平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.books.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002005",
-              "title": "Yahoo! 購物中心",
-              "href": "https://tw.buy.yahoo.com/",
-              "description": "Yahoo官方綜合購物平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.buy.yahoo.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000002006",
-              "title": "露天拍賣",
-              "href": "https://www.ruten.com.tw/",
-              "description": "台灣老牌C2C拍賣平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ruten.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002007",
-              "title": "樂天市場",
-              "href": "https://www.rakuten.com.tw/",
-              "description": "日本樂天集團台灣購物網站。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.rakuten.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002008",
-              "title": "Pinkoi",
-              "href": "https://www.pinkoi.com/",
-              "description": "設計師選物與手作市集。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pinkoi.com",
               "enabled": true
             }
           ],
