@@ -231,6 +231,14 @@
               "description": "亞洲最大旅遊體驗預訂平台。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
               "enabled": true
+            },
+            {
+              "id": "1773195101121",
+              "title": "Trip.com官方網站：全球機票、酒店，高鐵網上預訂",
+              "href": "https://www.trip.com/t/rBYe8I53qT2",
+              "description": "Trip.com為全球領先的網上旅遊服務公司,提供全球逾9000條航線,120萬間酒店預訂,更有各地酒店住客評價及限時機票酒店優惠.立即點擊預訂機票,酒店及景點玩樂門票!",
+              "icon": "/assets/favicon_1773195105052.png",
+              "enabled": true
             }
           ],
           "enabled": true
