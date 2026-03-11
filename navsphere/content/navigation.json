@@ -594,23 +594,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
-          "title": "数据与分析",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1760611119341",
-              "title": "TradingView",
-              "href": "https://www.tradingview.com/",
-              "description": "全球交易者和投資者製作圖表、聊天和交易市場的平台。我們是一個功能強大的超級圖表平台和社交網絡。免費註冊即可使用。",
-              "icon": "/assets/favicon_1760611123647.webp",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "a45066a4-3622-43a4-acbb-873da6268788",
           "title": "溢价观测工具",
           "icon": "Database",
