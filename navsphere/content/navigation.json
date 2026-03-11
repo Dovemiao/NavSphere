@@ -64,6 +64,24 @@
           "enabled": true
         },
         {
+          "id": "7",
+          "title": "在线配色",
+          "href": "#在线配色",
+          "icon": "Book",
+          "description": "",
+          "items": [
+            {
+              "id": "7_1",
+              "title": "Color Hunt",
+              "href": "https://colorhunt.co/",
+              "description": "色彩搭配工具。",
+              "icon": "/assets/images/logos/colorhunt.webp",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "1774000000001",
           "title": "影音娛樂",
           "href": "#影音娛樂",
@@ -465,24 +483,6 @@
               "href": "https://framer.com/",
               "description": "在一個平台上設計從詳細圖標到高保真交互效果的所有內容。",
               "icon": "/assets/images/logos/framer.webp",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "7",
-          "title": "在线配色",
-          "href": "#在线配色",
-          "icon": "Book",
-          "description": "",
-          "items": [
-            {
-              "id": "7_1",
-              "title": "Color Hunt",
-              "href": "https://colorhunt.co/",
-              "description": "色彩搭配工具。",
-              "icon": "/assets/images/logos/colorhunt.webp",
               "enabled": true
             }
           ],
