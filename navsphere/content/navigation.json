@@ -64,260 +64,6 @@
           "enabled": true
         },
         {
-          "id": "1774000000001",
-          "title": "影音娛樂",
-          "href": "#影音娛樂",
-          "icon": "Tv",
-          "description": "",
-          "items": [
-            {
-              "id": "1774000001001",
-              "title": "YouTube",
-              "href": "https://www.youtube.com/",
-              "description": "全球最大的影片分享與觀看平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.youtube.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001002",
-              "title": "Netflix",
-              "href": "https://www.netflix.com/tw/",
-              "description": "熱門美劇、電影、原創影集串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.netflix.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001003",
-              "title": "Disney+",
-              "href": "https://www.disneyplus.com/",
-              "description": "迪士尼、皮克斯、漫威、星戰官方串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.disneyplus.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001004",
-              "title": "巴哈姆特動畫瘋",
-              "href": "https://ani.gamer.com.tw/",
-              "description": "台灣最受歡迎的動漫串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ani.gamer.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000001005",
-              "title": "Twitch",
-              "href": "https://www.twitch.tv/",
-              "description": "全球最大遊戲實況直播平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.twitch.tv",
-              "enabled": true
-            },
-            {
-              "id": "1774000001006",
-              "title": "LINE TV",
-              "href": "https://www.linetv.tw/",
-              "description": "LINE官方影劇串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linetv.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000001007",
-              "title": "愛奇藝台灣",
-              "href": "https://tw.iqiyi.com/",
-              "description": "大陸熱門劇集與綜藝台灣版。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.iqiyi.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001008",
-              "title": "LiTV",
-              "href": "https://www.litv.tv/",
-              "description": "台灣本土影劇與直播頻道。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.litv.tv",
-              "enabled": true
-            },
-            {
-              "id": "1774000001009",
-              "title": "KKTV",
-              "href": "https://www.kktv.me/",
-              "description": "亞洲戲劇與韓劇專區。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kktv.me",
-              "enabled": true
-            },
-            {
-              "id": "1774000001010",
-              "title": "KKBOX",
-              "href": "https://www.kkbox.com/tw/",
-              "description": "台灣最大正版音樂串流服務。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkbox.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001011",
-              "title": "Spotify",
-              "href": "https://open.spotify.com/",
-              "description": "全球最大音樂串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=open.spotify.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001012",
-              "title": "Opentix 兩廳院",
-              "href": "https://www.opentix.life/",
-              "description": "音樂會、展覽、表演票券訂購平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.opentix.life",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "1774000000003",
-          "title": "旅遊訂票",
-          "href": "#旅遊訂票",
-          "icon": "Plane",
-          "description": "",
-          "items": [
-            {
-              "id": "1773195101121",
-              "title": "Trip.com官方網站：全球機票、酒店，高鐵網上預訂",
-              "href": "https://www.trip.com/t/rBYe8I53qT2",
-              "description": "Trip.com為全球領先的網上旅遊服務公司,提供全球逾9000條航線,120萬間酒店預訂,更有各地酒店住客評價及限時機票酒店優惠.立即點擊預訂機票,酒店及景點玩樂門票!",
-              "icon": "/assets/favicon_1773195105052.png",
-              "enabled": true
-            },
-            {
-              "id": "1774000003001",
-              "title": "中華航空",
-              "href": "https://www.china-airlines.com/",
-              "description": "台灣旗艦航空公司機票訂購。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.china-airlines.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003002",
-              "title": "星宇航空",
-              "href": "https://www.starlux-airlines.com/",
-              "description": "新世代高端台灣航空。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.starlux-airlines.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003003",
-              "title": "台灣虎航",
-              "href": "https://www.tigerairtw.com/",
-              "description": "台灣低成本航空。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tigerairtw.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003004",
-              "title": "雄獅旅遊",
-              "href": "https://www.liontravel.com/",
-              "description": "台灣最大旅行社團體與自由行。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.liontravel.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003005",
-              "title": "可樂旅遊",
-              "href": "https://www.colatour.com.tw/",
-              "description": "可樂旅遊官方網站。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.colatour.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000003006",
-              "title": "Klook",
-              "href": "https://www.klook.com/zh-TW/",
-              "description": "全球旅遊體驗與門票預訂平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.klook.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003007",
-              "title": "KKday",
-              "href": "https://www.kkday.com/zh-tw/",
-              "description": "亞洲最大旅遊體驗預訂平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "1774000000002",
-          "title": "購物網拍",
-          "href": "#購物網拍",
-          "icon": "ShoppingBag",
-          "description": "",
-          "items": [
-            {
-              "id": "1774000002001",
-              "title": "蝦皮購物",
-              "href": "https://shopee.tw/",
-              "description": "台灣最大C2C購物平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shopee.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002002",
-              "title": "MOMO 購物網",
-              "href": "https://www.momoshop.com.tw/",
-              "description": "台灣知名電視購物與電商平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.momoshop.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002003",
-              "title": "PChome 24h",
-              "href": "https://24h.pchome.com.tw/",
-              "description": "24小時到貨的台灣電商龍頭。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=24h.pchome.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002004",
-              "title": "博客來",
-              "href": "https://www.books.com.tw/",
-              "description": "台灣最大網路書店與生活用品平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.books.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002005",
-              "title": "Yahoo! 購物中心",
-              "href": "https://tw.buy.yahoo.com/",
-              "description": "Yahoo官方綜合購物平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.buy.yahoo.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000002006",
-              "title": "露天拍賣",
-              "href": "https://www.ruten.com.tw/",
-              "description": "台灣老牌C2C拍賣平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ruten.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002007",
-              "title": "樂天市場",
-              "href": "https://www.rakuten.com.tw/",
-              "description": "日本樂天集團台灣購物網站。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.rakuten.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000002008",
-              "title": "Pinkoi",
-              "href": "https://www.pinkoi.com/",
-              "description": "設計師選物與手作市集。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pinkoi.com",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
           "id": "1774000010000",
           "title": "免費縮短網址產生器",
           "href": "#免費縮短網址產生器",
@@ -495,11 +241,264 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "1774000000001",
+          "title": "影音娛樂",
+          "href": "#影音娛樂",
+          "icon": "Tv",
+          "description": "",
+          "items": [
+            {
+              "id": "1774000001001",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "全球最大的影片分享與觀看平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.youtube.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001002",
+              "title": "Netflix",
+              "href": "https://www.netflix.com/tw/",
+              "description": "熱門美劇、電影、原創影集串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.netflix.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001003",
+              "title": "Disney+",
+              "href": "https://www.disneyplus.com/",
+              "description": "迪士尼、皮克斯、漫威、星戰官方串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.disneyplus.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001004",
+              "title": "巴哈姆特動畫瘋",
+              "href": "https://ani.gamer.com.tw/",
+              "description": "台灣最受歡迎的動漫串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ani.gamer.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000001005",
+              "title": "Twitch",
+              "href": "https://www.twitch.tv/",
+              "description": "全球最大遊戲實況直播平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.twitch.tv",
+              "enabled": true
+            },
+            {
+              "id": "1774000001006",
+              "title": "LINE TV",
+              "href": "https://www.linetv.tw/",
+              "description": "LINE官方影劇串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linetv.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000001007",
+              "title": "愛奇藝台灣",
+              "href": "https://tw.iqiyi.com/",
+              "description": "大陸熱門劇集與綜藝台灣版。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.iqiyi.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001008",
+              "title": "LiTV",
+              "href": "https://www.litv.tv/",
+              "description": "台灣本土影劇與直播頻道。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.litv.tv",
+              "enabled": true
+            },
+            {
+              "id": "1774000001009",
+              "title": "KKTV",
+              "href": "https://www.kktv.me/",
+              "description": "亞洲戲劇與韓劇專區。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kktv.me",
+              "enabled": true
+            },
+            {
+              "id": "1774000001010",
+              "title": "KKBOX",
+              "href": "https://www.kkbox.com/tw/",
+              "description": "台灣最大正版音樂串流服務。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkbox.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001011",
+              "title": "Spotify",
+              "href": "https://open.spotify.com/",
+              "description": "全球最大音樂串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=open.spotify.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001012",
+              "title": "Opentix 兩廳院",
+              "href": "https://www.opentix.life/",
+              "description": "音樂會、展覽、表演票券訂購平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.opentix.life",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "1774000000002",
+          "title": "購物網拍",
+          "href": "#購物網拍",
+          "icon": "ShoppingBag",
+          "description": "",
+          "items": [
+            {
+              "id": "1774000002001",
+              "title": "蝦皮購物",
+              "href": "https://shopee.tw/",
+              "description": "台灣最大C2C購物平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=shopee.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002002",
+              "title": "MOMO 購物網",
+              "href": "https://www.momoshop.com.tw/",
+              "description": "台灣知名電視購物與電商平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.momoshop.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002003",
+              "title": "PChome 24h",
+              "href": "https://24h.pchome.com.tw/",
+              "description": "24小時到貨的台灣電商龍頭。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=24h.pchome.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002004",
+              "title": "博客來",
+              "href": "https://www.books.com.tw/",
+              "description": "台灣最大網路書店與生活用品平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.books.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002005",
+              "title": "Yahoo! 購物中心",
+              "href": "https://tw.buy.yahoo.com/",
+              "description": "Yahoo官方綜合購物平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.buy.yahoo.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000002006",
+              "title": "露天拍賣",
+              "href": "https://www.ruten.com.tw/",
+              "description": "台灣老牌C2C拍賣平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ruten.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002007",
+              "title": "樂天市場",
+              "href": "https://www.rakuten.com.tw/",
+              "description": "日本樂天集團台灣購物網站。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.rakuten.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000002008",
+              "title": "Pinkoi",
+              "href": "https://www.pinkoi.com/",
+              "description": "設計師選物與手作市集。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pinkoi.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
+          "id": "1774000000003",
+          "title": "旅遊訂票",
+          "href": "#旅遊訂票",
+          "icon": "Plane",
+          "description": "",
+          "items": [
+            {
+              "id": "1774000003001",
+              "title": "中華航空",
+              "href": "https://www.china-airlines.com/",
+              "description": "台灣旗艦航空公司機票訂購。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.china-airlines.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003002",
+              "title": "星宇航空",
+              "href": "https://www.starlux-airlines.com/",
+              "description": "新世代高端台灣航空。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.starlux-airlines.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003003",
+              "title": "台灣虎航",
+              "href": "https://www.tigerairtw.com/",
+              "description": "台灣低成本航空。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tigerairtw.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003004",
+              "title": "雄獅旅遊",
+              "href": "https://www.liontravel.com/",
+              "description": "台灣最大旅行社團體與自由行。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.liontravel.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003005",
+              "title": "可樂旅遊",
+              "href": "https://www.colatour.com.tw/",
+              "description": "可樂旅遊官方網站。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.colatour.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000003006",
+              "title": "Klook",
+              "href": "https://www.klook.com/zh-TW/",
+              "description": "全球旅遊體驗與門票預訂平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.klook.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003007",
+              "title": "KKday",
+              "href": "https://www.kkday.com/zh-tw/",
+              "description": "亞洲最大旅遊體驗預訂平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000003008",
+              "title": "攜程旅遊",
+              "href": "https://www.trip.com/t/rBYe8I53qT2",
+              "description": "攜程旅遊提供全球機票、酒店、自由行、團體旅遊等一站式預訂服務。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trip.com",
+              "enabled": true
+            }
+          ],
+          "enabled": true
         }
       ],
       "description": "",
-      "enabled": true,
-      "items": []
+      "enabled": true
     },
     {
       "id": "1761724945457",
@@ -591,7 +590,32 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1774000020001",
+          "title": "幣安",
+          "href": "https://www.bsmkweb.cc/join?ref=568646670",
+          "description": "全球最大加密貨幣交易所，提供現貨、合約、NFT 等交易服務。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.bsmkweb.cc",
+          "enabled": true
+        },
+        {
+          "id": "1774000020002",
+          "title": "Biyapay",
+          "href": "https://biyapay.com/re/81586733",
+          "description": "Biyapay 提供便捷的加密貨幣支付與交易服務。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=biyapay.com",
+          "enabled": true
+        },
+        {
+          "id": "1774000020003",
+          "title": "雅虎財經",
+          "href": "https://finance.yahoo.com/",
+          "description": "全球知名財經新聞與即時股市報價平台。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=finance.yahoo.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
