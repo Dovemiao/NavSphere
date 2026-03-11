@@ -64,6 +64,112 @@
           "enabled": true
         },
         {
+          "id": "1774000000001",
+          "title": "影音娛樂",
+          "href": "#影音娛樂",
+          "icon": "Tv",
+          "description": "",
+          "items": [
+            {
+              "id": "1774000001001",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "全球最大的影片分享與觀看平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.youtube.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001002",
+              "title": "Netflix",
+              "href": "https://www.netflix.com/tw/",
+              "description": "熱門美劇、電影、原創影集串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.netflix.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001003",
+              "title": "Disney+",
+              "href": "https://www.disneyplus.com/",
+              "description": "迪士尼、皮克斯、漫威、星戰官方串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.disneyplus.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001004",
+              "title": "巴哈姆特動畫瘋",
+              "href": "https://ani.gamer.com.tw/",
+              "description": "台灣最受歡迎的動漫串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ani.gamer.com.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000001005",
+              "title": "Twitch",
+              "href": "https://www.twitch.tv/",
+              "description": "全球最大遊戲實況直播平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.twitch.tv",
+              "enabled": true
+            },
+            {
+              "id": "1774000001006",
+              "title": "LINE TV",
+              "href": "https://www.linetv.tw/",
+              "description": "LINE官方影劇串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linetv.tw",
+              "enabled": true
+            },
+            {
+              "id": "1774000001007",
+              "title": "愛奇藝台灣",
+              "href": "https://tw.iqiyi.com/",
+              "description": "大陸熱門劇集與綜藝台灣版。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.iqiyi.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001008",
+              "title": "LiTV",
+              "href": "https://www.litv.tv/",
+              "description": "台灣本土影劇與直播頻道。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.litv.tv",
+              "enabled": true
+            },
+            {
+              "id": "1774000001009",
+              "title": "KKTV",
+              "href": "https://www.kktv.me/",
+              "description": "亞洲戲劇與韓劇專區。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kktv.me",
+              "enabled": true
+            },
+            {
+              "id": "1774000001010",
+              "title": "KKBOX",
+              "href": "https://www.kkbox.com/tw/",
+              "description": "台灣最大正版音樂串流服務。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkbox.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001011",
+              "title": "Spotify",
+              "href": "https://open.spotify.com/",
+              "description": "全球最大音樂串流平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=open.spotify.com",
+              "enabled": true
+            },
+            {
+              "id": "1774000001012",
+              "title": "Opentix 兩廳院",
+              "href": "https://www.opentix.life/",
+              "description": "音樂會、展覽、表演票券訂購平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.opentix.life",
+              "enabled": true
+            }
+          ],
+          "enabled": true
+        },
+        {
           "id": "1774000000003",
           "title": "旅遊訂票",
           "href": "#旅遊訂票",
@@ -377,112 +483,6 @@
               "href": "https://colorhunt.co/",
               "description": "色彩搭配工具。",
               "icon": "/assets/images/logos/colorhunt.webp",
-              "enabled": true
-            }
-          ],
-          "enabled": true
-        },
-        {
-          "id": "1774000000001",
-          "title": "影音娛樂",
-          "href": "#影音娛樂",
-          "icon": "Tv",
-          "description": "",
-          "items": [
-            {
-              "id": "1774000001001",
-              "title": "YouTube",
-              "href": "https://www.youtube.com/",
-              "description": "全球最大的影片分享與觀看平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.youtube.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001002",
-              "title": "Netflix",
-              "href": "https://www.netflix.com/tw/",
-              "description": "熱門美劇、電影、原創影集串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.netflix.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001003",
-              "title": "Disney+",
-              "href": "https://www.disneyplus.com/",
-              "description": "迪士尼、皮克斯、漫威、星戰官方串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.disneyplus.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001004",
-              "title": "巴哈姆特動畫瘋",
-              "href": "https://ani.gamer.com.tw/",
-              "description": "台灣最受歡迎的動漫串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ani.gamer.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000001005",
-              "title": "Twitch",
-              "href": "https://www.twitch.tv/",
-              "description": "全球最大遊戲實況直播平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.twitch.tv",
-              "enabled": true
-            },
-            {
-              "id": "1774000001006",
-              "title": "LINE TV",
-              "href": "https://www.linetv.tw/",
-              "description": "LINE官方影劇串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linetv.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000001007",
-              "title": "愛奇藝台灣",
-              "href": "https://tw.iqiyi.com/",
-              "description": "大陸熱門劇集與綜藝台灣版。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tw.iqiyi.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001008",
-              "title": "LiTV",
-              "href": "https://www.litv.tv/",
-              "description": "台灣本土影劇與直播頻道。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.litv.tv",
-              "enabled": true
-            },
-            {
-              "id": "1774000001009",
-              "title": "KKTV",
-              "href": "https://www.kktv.me/",
-              "description": "亞洲戲劇與韓劇專區。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kktv.me",
-              "enabled": true
-            },
-            {
-              "id": "1774000001010",
-              "title": "KKBOX",
-              "href": "https://www.kkbox.com/tw/",
-              "description": "台灣最大正版音樂串流服務。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkbox.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001011",
-              "title": "Spotify",
-              "href": "https://open.spotify.com/",
-              "description": "全球最大音樂串流平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=open.spotify.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000001012",
-              "title": "Opentix 兩廳院",
-              "href": "https://www.opentix.life/",
-              "description": "音樂會、展覽、表演票券訂購平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.opentix.life",
               "enabled": true
             }
           ],
