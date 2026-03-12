@@ -313,6 +313,14 @@
               "description": "適用於App Store和Google Play的App截圖生成器，可為iOS和Android應用創建全景截圖。無需註冊帳戶。",
               "icon": "/assets/img_1735258064656.webp",
               "enabled": true
+            },
+            {
+              "id": "1773285822001",
+              "title": "123apps 的網絡應用 - 編輯、轉換、創建",
+              "href": "https://123apps.com/tw/",
+              "description": "免費線上影片、音訊、PDF 和檔案轉換線上工具",
+              "icon": "/assets/favicon_1773285825062.svg",
+              "enabled": true
             }
           ],
           "enabled": true
