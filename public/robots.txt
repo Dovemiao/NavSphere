@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin  # 禁止爬後台（如果有暴露）
+Disallow: /api    # 可選，防止爬 API
+
+Sitemap: https://tw123.eu.cc/sitemap.xml
