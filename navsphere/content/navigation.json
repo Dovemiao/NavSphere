@@ -209,6 +209,14 @@
               "enabled": true
             },
             {
+              "id": "1774000003007",
+              "title": "KKday",
+              "href": "https://www.kkday.com/zh-tw/",
+              "description": "亞洲最大旅遊體驗預訂平台。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
+              "enabled": true
+            },
+            {
               "id": "1774000003001",
               "title": "中華航空",
               "href": "https://www.china-airlines.com/",
@@ -246,14 +254,6 @@
               "href": "https://www.colatour.com.tw/",
               "description": "可樂旅遊官方網站。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.colatour.com.tw",
-              "enabled": true
-            },
-            {
-              "id": "1774000003007",
-              "title": "KKday",
-              "href": "https://www.kkday.com/zh-tw/",
-              "description": "亞洲最大旅遊體驗預訂平台。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
               "enabled": true
             }
           ],
