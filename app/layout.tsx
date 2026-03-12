@@ -79,6 +79,7 @@ export default function RootLayout({
           }}
         />
       </head>
+      <meta name="google-site-verification" content="44gJisqeRwezoT8FpMNnYx0veCMvEFLMxzHInFua9yA" />
       <body suppressHydrationWarning>
         <ThemeProvider
           attribute="class"
