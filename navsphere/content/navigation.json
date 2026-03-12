@@ -193,6 +193,14 @@
           "description": "",
           "items": [
             {
+              "id": "1774000003008",
+              "title": "攜程旅遊",
+              "href": "https://www.trip.com/t/rBYe8I53qT2",
+              "description": "攜程旅遊提供全球機票、酒店、自由行、團體旅遊等一站式預訂服務。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trip.com",
+              "enabled": true
+            },
+            {
               "id": "1774000003001",
               "title": "中華航空",
               "href": "https://www.china-airlines.com/",
@@ -246,14 +254,6 @@
               "href": "https://www.kkday.com/zh-tw/",
               "description": "亞洲最大旅遊體驗預訂平台。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kkday.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003008",
-              "title": "攜程旅遊",
-              "href": "https://www.trip.com/t/rBYe8I53qT2",
-              "description": "攜程旅遊提供全球機票、酒店、自由行、團體旅遊等一站式預訂服務。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.trip.com",
               "enabled": true
             }
           ],
