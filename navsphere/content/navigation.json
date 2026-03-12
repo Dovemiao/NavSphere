@@ -217,6 +217,14 @@
               "enabled": true
             },
             {
+              "id": "1774000003005",
+              "title": "可樂旅遊",
+              "href": "https://www.colatour.com.tw/",
+              "description": "可樂旅遊官方網站。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.colatour.com.tw",
+              "enabled": true
+            },
+            {
               "id": "1774000003001",
               "title": "中華航空",
               "href": "https://www.china-airlines.com/",
@@ -246,14 +254,6 @@
               "href": "https://www.liontravel.com/",
               "description": "台灣最大旅行社團體與自由行。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.liontravel.com",
-              "enabled": true
-            },
-            {
-              "id": "1774000003005",
-              "title": "可樂旅遊",
-              "href": "https://www.colatour.com.tw/",
-              "description": "可樂旅遊官方網站。",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.colatour.com.tw",
               "enabled": true
             }
           ],
