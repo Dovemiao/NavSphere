@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: "TW123",
     images: [
       {
-        url: "https://i.postimg.cc/s29MWj9m/Gemini-Generated-Image-2qh6f52qh6f52qh6.png", // 已修正路徑
+        url: "https://i.postimg.cc/s29MWj9m/Gemini-Generated-Image-2qh6f52qh6f52qh6.png",
         width: 1200,
         height: 630,
       },
@@ -60,10 +60,11 @@ export default function RootLayout({
         {/* 預連接 Google Tag Manager，提升 GA 載入速度 */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
 
-        {/* Google Analytics */}
+        {/* Google tag (gtag.js) - 新版 GA4 代碼 */}
         <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-1X352K3W92"
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-QG9PGG4K13"
+          async
         />
         <Script
           id="google-analytics"
@@ -73,12 +74,11 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-QG9PGG4K13');
+              gtag('config', 'G-1X352K3W92');
             `,
           }}
         />
       </head>
-
       <body suppressHydrationWarning>
         <ThemeProvider
           attribute="class"
